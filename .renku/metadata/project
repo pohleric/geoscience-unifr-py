@@ -27,12 +27,12 @@
     "@renku_data_type": "renku.domain_model.project.ProjectTemplateMetadata",
     "@renku_data_value": {
       "immutable_template_files": [],
-      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.7.2\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"eric.pohl\", \"__repository__\": \"https://gitlab.renkulab.io\", \"__sanitized_project_name__\": \"geoscience-unifr-py\", \"__project_slug__\": \"eric.pohl/geoscience-unifr-py\", \"__project_description__\": \"Renkulab environment for the courses SGS.01101, SGG.02101, SGG.00272, SGG.00273,\", \"__renku_version__\": \"2.9.2\", \"name\": \"geoscience-unifr-py\", \"__name__\": \"geoscience-unifr-py\", \"__template_version__\": \"ee4cf00c52c6cd45363a40b55540343e9ecf70af\", \"__automated_update__\": true}",
+      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.9.0\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"eric.pohl\", \"__repository__\": \"https://gitlab.renkulab.io\", \"__sanitized_project_name__\": \"geoscience-unifr-py\", \"__project_slug__\": \"eric.pohl/geoscience-unifr-py\", \"__project_description__\": \"Renkulab environment for the courses SGS.01101, SGG.02101, SGG.00272, SGG.00273,\", \"__renku_version__\": \"2.9.2\", \"name\": \"geoscience-unifr-py\", \"__name__\": \"geoscience-unifr-py\", \"__template_version__\": \"c61f354efda7729cad3e8073be9c39019b8342e4\", \"__automated_update__\": true}",
       "ssh_supported": true,
       "template_id": "python-minimal",
-      "template_ref": "0.7.2",
+      "template_ref": "0.9.0",
       "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
-      "template_version": "ee4cf00c52c6cd45363a40b55540343e9ecf70af"
+      "template_version": "c61f354efda7729cad3e8073be9c39019b8342e4"
     }
   },
   "version": 10
