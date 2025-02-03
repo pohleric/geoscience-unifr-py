@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+xarray
+rioxarray
+matplotlib
+scipy
+statsmodels
