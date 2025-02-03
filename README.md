@@ -7,9 +7,9 @@ Renkulab environment for the courses SGS.01101, SGG.02101, SGG.00272, SGG.00273,
 This renkulab.io project contains the relevant coding course material for your course. Renkulab is an onion-like structure:
 
 - Git (outer shell, saving and management)
--- JupyterLab (visual interface)
---- Jupyter Notebook (website-like programming environemnt)
----- Python (actual programming)
+    - JupyterLab (visual interface)
+        - Jupyter Notebook (website-like programming environemnt)
+            - Python (actual programming)
 
 ## Starting
 
@@ -17,9 +17,9 @@ All needed packages are pre-installed. You run this environment by looging into 
 <font color=blue>Projects > geoscience-unifr-py > Environments > New (Select newest commit) > Start environment > Wait until "green" > Connect </font>.
 
 Your web browser should show an URL like this:
-- **https://renkulab.io/projects/\<my-user-name\>/geoscience-unifr-py**
+- **https://renkulab.io/projects/<my-user-name>/geoscience-unifr-py**
     
-    Where \<my-user-name\> is your renkulab.io user name.
+    Where <my-user-name> is your renkulab.io user name.
 
 
 The first start will take some minutes (you might see an error if you click the connect button too early; try again a minute later in that case).
