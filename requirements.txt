@@ -6,3 +6,4 @@ rioxarray
 matplotlib
 scipy
 statsmodels
+scikit-learn
