@@ -17,9 +17,9 @@ All needed packages are pre-installed. You run this environment by looging into 
 <font color=blue>Projects > geoscience-unifr-py > Environments > New (Select newest commit) > Start environment > Wait until "green" > Connect </font>.
 
 Your web browser should show an URL like this:
-- **https://renkulab.io/projects/<my-user-name>/geoscience-unifr-py**
+- **https://renkulab.io/projects/"my-user-name"/geoscience-unifr-py**
     
-    Where <my-user-name> is your renkulab.io user name.
+    Where "my-user-name" is your renkulab.io user name (you can see it in the URL).
 
 
 The first start will take some minutes (you might see an error if you click the connect button too early; try again a minute later in that case).
